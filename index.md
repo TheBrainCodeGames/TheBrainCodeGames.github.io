@@ -19,7 +19,7 @@ Si estás interesado/a, inscríbete en este [formulario](https://docs.google.com
 - Premios: hasta 500€ para los equipos con mejores resultados
 - Se otorgará un certificado de asistencia por el número de horas de participación
 
-![Image of ripple](https://github.com/TheBrainCodeGames/TheBrainCodeGames.github.io/blob/master/assets/images/descripcion.png)
+![Image of ripple](/assets/images/descripcion.png)
 
 ## Más sobre...
 
@@ -37,7 +37,7 @@ Pues bien, el objetivo de la hackaton es desarrollar un algoritmo utilizando her
 
 Cubriremos todos estos temas más en detalle más adelante.
 
-![Image of ripple](https://github.com/TheBrainCodeGames/TheBrainCodeGames.github.io/blob/master/assets/images/ejemplo_ripple.png)
+![Image of ripple](/assets/images/ejemplo_ripple.png)
 
 ### ...la hackaton
 
@@ -87,6 +87,6 @@ Este evento está organizado por:
 
 The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC)
 
-<img src="https://github.com/TheBrainCodeGames/TheBrainCodeGames.github.io/blob/master/assets/images/senc_logo_hor.png" alt="Image of SENC" width="600"/>
+<img src="/assets/images/senc_logo_hor.png" alt="Image of SENC" width="600"/>
 
 
