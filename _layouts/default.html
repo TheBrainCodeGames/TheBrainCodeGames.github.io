@@ -40,8 +40,14 @@
 
         {% if site.lang == "es" %}
         <p><a href="{{ "/another-page.html" | relative_url }}">English version</a></p>
+        {% capture site.lang %}
+          "en"
+        {% endcapture %}
         {% else %}
         <p><a href="{{ "/" | relative_url }}">Versión en español</a></p>
+        {% capture site.lang %}
+          "es"
+        {% endcapture %}
         {% endif %}
 
 
