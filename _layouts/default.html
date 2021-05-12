@@ -30,13 +30,20 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}-->
 
-        <p>
+        <p style="text-align:center;">
         <a href="https://twitter.com/BraincodeGames"><img src="/assets/images/twitter.png" alt="Twitter" width="50"/></a>
         &nbsp;&nbsp;
         <a href="https://www.instagram.com/braincodegames/"><img src="/assets/images/instagram.jpg" alt="Instagram" width="50"/></a>
         &nbsp;&nbsp;
         <a href="https://github.com/TheBrainCodeGames"><img src="/assets/images/github.png" alt="GitHub" width="50"/></a>
         </p>
+
+        {% if site.lang == "es" %}
+        <p><a href="index_old.md">English version</a></p>
+        {% else %}
+        <p><a href="index.md">Versión en español</a></p>
+        {% endif %}
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
