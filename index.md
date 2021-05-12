@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The BrainCode Games
 
 ## Descripción
