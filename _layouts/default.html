@@ -41,10 +41,10 @@
         </p>
 
         {% if currentLang == "es" %}
-          <p><a href="{{ "/another-page.html" | relative_url }}">English version</a></p>
+          <p><a lang="en" href="{{ "/another-page.html" | relative_url }}">English version</a></p>
           {% assign currentLang = "en" %}
         {% else %}
-          <p><a href="{{ "/" | relative_url }}">Versión en español</a></p>
+          <p><a lang="es" href="{{ "/" | relative_url }}">Versión en español</a></p>
           {% assign currentLang = "es" %}
         {% endif %}
 
