@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[English version](./another-page.html).
 
 # The BrainCode Games
 
