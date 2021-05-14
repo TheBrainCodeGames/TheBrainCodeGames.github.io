@@ -11,10 +11,10 @@ The BrainCode Games es una **hackatón**, una competición colaborativa cuyo fin
 
 ### Inscripción
 
-Si estás interesado/a, inscríbete en este **[formulario](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform)**, y síguenos en [Twitter](https://twitter.com/BraincodeGames) e [Instagram](https://www.instagram.com/braincodegames/), donde iremos publicando información referente al evento, y divulgación sobre los temas que trataremos. ¡Ah! Y no te preocupes si no tienes un equipo, te podremos emparejar con la persona que más complemente tu formación :P
+Si estás interesado/a, inscríbete en este **<a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">formulario</a>**, y síguenos en <a href="https://twitter.com/BraincodeGames" target="_blank">Twitter</a> e <a href="https://www.instagram.com/braincodegames/" target="_blank">Instagram</a>, donde iremos publicando información referente al evento, y divulgación sobre los temas que trataremos. ¡Ah! Y no te preocupes si no tienes un equipo, te podremos emparejar con la persona que más complemente tu formación :P
 
 ### Información relevante
-- Formulario de inscripción: [en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform).
+- Formulario de inscripción: <a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">en este enlace</a>.
 - Fecha de la hackatón: fin de semana del 22 al 25 de octubre de 2021.
 - Se impartirán unos cursillos de formación para la participación. Se grabarán y subirán a la web para que puedas verlos siempre que quieras.
 - Tanto la hackatón como las cursillos serán online.
@@ -60,21 +60,21 @@ Las hackatones son, además, un estilo cada vez más frecuente de contratación 
 
 Se impartirán tres charlas-cursillo:
 
-- **Inteligencia Artificial:** Se hablará de qué es la Inteligencia Artificial, o *Machine Learning*. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándonos sobre todo en los algoritmos de aprendizaje supervisado, ya que son los que más se ajustan a nuestro problema. Será impartido por [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev).
+- **Inteligencia Artificial:** Se hablará de qué es la Inteligencia Artificial, o *Machine Learning*. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándonos sobre todo en los algoritmos de aprendizaje supervisado, ya que son los que más se ajustan a nuestro problema. Será impartido por <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
 
-- **Neurociencia:** Para aquellas personas con perfiles más técnicos, revisaremos los mecanismos que tiene el cerebro para procesar información, empezando desde lo más simple, las neuronas, hasta los circuitos, y cómo estos son capaces de codificar el mundo. Estudiaremos qué son las oscilaciones cerebrales, y cómo las oscilaciones se relacionan con el comportamiento. Será impartido por [Enrique R Sebastian](https://twitter.com/EnrRodSeb).
+- **Neurociencia:** Para aquellas personas con perfiles más técnicos, revisaremos los mecanismos que tiene el cerebro para procesar información, empezando desde lo más simple, las neuronas, hasta los circuitos, y cómo estos son capaces de codificar el mundo. Estudiaremos qué son las oscilaciones cerebrales, y cómo las oscilaciones se relacionan con el comportamiento. Será impartido por <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
 
-- **Python:** Para aquellas personas con una formación más alejada de la programación, y gente que provenga de otros lenguajes, daremos un cursillo de iniciación a python, poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas donde usemos herramientas de inteligencia artificial que puedan ser aplicables durante la hackatón. Será impartido por [Andrea Navas-Olive](https://twitter.com/acnavasolive).
+- **Python:** Para aquellas personas con una formación más alejada de la programación, y gente que provenga de otros lenguajes, daremos un cursillo de iniciación a python, poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas donde usemos herramientas de inteligencia artificial que puedan ser aplicables durante la hackatón. Será impartido por <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
 
 Tanto los cursillos como el material que subamos a esta web tiene como propósito ofrecerte una guía para que puedas estudiar más en profundidad los temas por tu cuenta.
 
 ### ...qué ganaré con esta experiencia
 
-- Aprenderás temas cada vez más demandados tanto en el mundo de la investigación y la ciencia, como en el empresarial
+- Aprenderás temas cada vez más demandados tanto en el mundo de la investigación y la ciencia, como en el empresarial.
 
-- ... y lo harás en un formato que fomenta la ejecución práctica, la colaboración y la diversión
+- ... y lo harás en un formato que fomenta la ejecución práctica, la colaboración y la diversión.
 
-- Trabajarás en un equipo multidisciplinar con el objetivo de resolver un problema en un espacio breve de tiempo
+- Trabajarás en un equipo multidisciplinar con el objetivo de resolver un problema en un espacio breve de tiempo.
 
 - Y muy posiblemente, un premio, que el dinero nunca viene mal ;) 
 
@@ -82,19 +82,19 @@ Tanto los cursillos como el material que subamos a esta web tiene como propósit
 
 Este evento está organizado por:
 
-- [Andrea Navas-Olive](https://twitter.com/acnavasolive): Estudiante de Doctorado en Neurociencia Computacional en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/), y profesora en el Grado en Ingeniería Informática de la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+- <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>, y profesora en el Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
 
-- [Rodrigo Amaducci](https://twitter.com/AmaducciRodrigo): Estudiante de Doctorado en Neurociencia Computacional y profesor del Grado en Ingeniería Informática de la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+- <a href="https://twitter.com/AmaducciRodrigo" target="_blank">Rodrigo Amaducci</a>: Estudiante de Doctorado en Neurociencia Computacional y profesor del Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
 
-- [Enrique R Sebastian](https://twitter.com/EnrRodSeb): Estudiante de Doctorado en Neurociencia Computacional en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/)
+- <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
 
--  [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev): Doctor en Bioquímica, Biología Molecular y Biomedicina por la [Universidad Complutense de Madrid](https://www.ucm.es/), y actualmente Data Scientist en BBVA Advanced Analytics en Indizen
+- <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>: Doctor en Bioquímica, Biología Molecular y Biomedicina por la <a href="https://www.ucm.es/" target="_blank">Universidad Complutense de Madrid</a>, y actualmente Data Scientist en BBVA Advanced Analytics en Indizen.
 
-- [Adrián Gollerizo](https://twitter.com/agollerizo): Profesor de Física en [IDEO Escuela](https://www.escuelaideo.edu.es/) y estudiante de Doctorado en Educación en la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+- <a href="https://twitter.com/agollerizo" target="_blank">Adrián Gollerizo</a>: Profesor de Física en <a href="https://www.escuelaideo.edu.es/" target="_blank">IDEO Escuela</a> y estudiante de Doctorado en Educación en la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
 
-- [Liset M de la Prida](https://twitter.com/lmprida): Investigadora Principal del laboratorio [Hippocircuit Lab](http://hippo-circuitlab.es/) en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/)
+- <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Investigadora Principal del laboratorio <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
 
-The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC)
+The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC).
 
 <img src="/assets/images/senc_logo_hor.png" alt="Image of SENC" width="600"/>
 
