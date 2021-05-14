@@ -1,102 +1,103 @@
 ---
 layout: default
 ---
-[English version](./index_en.html)
+[Versión en español](./index.html)
 
 # The BrainCode Games
 
-## Descripción
+## Description
 
-BrainCode Games es una **hackatón**, una competición colaborativa cuyo fin último es el desarrollo de una solución a  un problema abierto durante un periodo corto (¡pero muy intenso!) de tiempo. El objetivo de The BrainCode Games es utilizar herramientas de **Inteligencia Artificial** para resolver un problema de **Neurociencia**. Este evento está orientado a gente de todos los niveles, aunque se favorecerá el acceso a estudiantes, así que no te preocupes si sientes que no tienes conocimientos suficientes. Precisamente, el objetivo final de esta hackatón es enseñar de una manera **didáctica, práctica y divertida** una serie de temas cada vez más demandados (inteligencia artificial, neurociencia y programación), por lo que daremos una serie de **cursillos** previos al evento para prepararte. Recibirás asimismo un **certificado** de asistencia por el número de horas total de participación. Y por supuesto, como competición que es, hay un **premio económico** para los equipos que consigan los mejores resultados.
+The BrainCode Games is a hackathon, a collaborative competition whose ultimate goal is to develop a solution to an open problem in a short (but very intense!) period of time. The idea of The BrainCode Games is to use **Articial Intelligence** tools to solve a **Neuroscience** problem. But don't worry if you feel that you lack the required knowledge or skills set. The final objective of this hackathon is that you learn, in a **didactic, practical and fun** way, about some hot topics (artificial intelligence, neuroscience and programming) that are more and more demanded nowadays. For this reason we will organize a series of **lectures** before the event to prepare you for it. You will receive an attendance **certificate** for the total amount of formation and participation hours. And of course, there will be an **economic award** for the teams that get the best results.
 
-The BrainCode Games is a hackaton, a collaborative competition whose goal is to find a solution to an open problem in a short (but very intense!) period of time. The objective of The BrainCode Games is to use **Machine Learning** tools to solve a **Neuroscience** problem. This event is aimed
+### Sign up
 
-### Inscripción
+If you are interested, sign up using the following **[form](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform)**, and follow us in [Twitter](https://twitter.com/BraincodeGames) and [Instagram](https://www.instagram.com/braincodegames/), where we will post important information related to the event and the topics that will be covered. Ah! And don't worry if you don't have a team, we will match you with the person that better complements your skills :P
 
-Si estás interesado/a, inscríbete en este **[formulario](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform)**, y síguenos en [Twitter](https://twitter.com/BraincodeGames) e [Instagram](https://www.instagram.com/braincodegames/), donde iremos publicando información referente al evento, y divulgación sobre los temas que trataremos. ¡Ah! Y no te preocupes si no tienes un equipo, te emparejaremos con la persona que más complemente tu formación :P
+### Important information
 
-### Información relevante
-- Formulario de inscripción: [en este enlace](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform)
-- Fecha de la hackaton: fin de semana del 22 al 25 de octubre de 2021
-- Fecha de los cursillos: septiembre de 2021
-- Tanto la hackatón como las charlas serán online
-- Se dispondrán de medios online para poder hablar y conocernos durante la hackatón
-- Número de plazas limitadas
-- Se favorecerá a estudiantes de grado o máster
-- Lenguaje de programación: python
-- Premios: hasta 500€ para los equipos con mejores resultados
-- Se otorgará un certificado de asistencia por el número de horas de participación
+- Sign up form: [follow this link](https://docs.google.com/forms/d/e/1FAIpQLSdRXJrgS9pzjdWVZeb912Bbw3gX4v5m3-ksiC6zEfrSRlm8cQ/viewform).
+- Hackathon dates: the weekend from 22th to 25th of October of 2021.
+- There will be training lectures previous to the event. These will be recorded and uploaded to the website so you can access them at any moment.
+- Both the hackathon and the lectures will be held online.
+- We will open online platforms to meet and discuss during the hackathon.
+- Limited spots available.
+- Students will be prioritized for sign up.
+- Programming language: Python.
+- Awards: up to 500€ for the teams that get the best results.
+- Attendance certificate will be provided.
 
-![Image of ripple](/assets/images/descripcion.png)
+![Description](/assets/images/description.png)
 
-## Más sobre...
+## More about...
 
-Aquí te explicamos más detalladamente cada uno de los aspectos relacionados con este evento. Si tienes alguna duda, no dudes en escribirnos a nuestro correo electrónico:
+Here we explain more in detail each of the aspects related to the event. If you have any question, don't hesitate in contact us:
 **braincodegames@gmail.com**
 
-### ...el problema abierto
+### ...the open problem
 
-El problema consiste en la detección de ciertos eventos en señales biológicas. Estos eventos, llamados *sharp wave ripples* (o *ripples* para resumir), son unas oscilaciones rápidas como las que se ven señaladas en la imagen. Estos eventos aparecen recurrentemente en nuestros cerebros, y son los encargados de consolidar la memoria. El estudio de los `ripples` nos acerca al entendimiento de los mecanismos que subyacen a la memoria, y muchos laboratorios del mundo centran sus investigaciones alrededor de estos eventos. Se ha demostrado que la interrupción de los `ripples` impide que se generen memorias, y que su prolongación mejore la memoria.
+It consists in detecting certain events in electrophysiological signals (which are recordings of the neural system electrical activity). These events, called *sharp wave ripples* or just *ripples*, are a kind of fast oscillations as the ones that are shown in the picture. They appear repeteadly in the activity of a region of our brains, called hippocampus, and are in charge of consolidating memory. Studying these `ripples` takes as closer to understanding the underlying mechanisms of memory and many laboratories around the world focus their research on these events. It has also been proved that interrupting `ripples` prevents memories from getting formed, and that prolonging them improves memory.
 
 ![Image of ripple](/assets/images/ejemplo_ripple.png)
 
-La señal biológica donde se ven los `ripples`, es decir, la representada en la imagen, es conocida como **LFP** (de las siglas *Local Field Potential* en inglés, o potencial de campo). Las neuronas están constantemente cogiendo y soltando iones, y ese flujo eléctrico se traduce en un potencial eléctrico que, sumado a los potenciales eléctricos de las demás neuronas, forman una señal eléctrica lo suficientemente potente como para ser registrada por nuestros aparatos de medición. Por lo tanto, el `LFP` es el potencial eléctrico resultante de la suma de los potenciales eléctricos de todas las neuronas individuales circundantes al electrodo. En la señal de arriba, tenemos 8 electrodos alineados, que miden el `LFP` como en estratos.
+The biological signal where we can see the `ripples`, like the one shown in the image, is known as *Local Field Potential* or **LFP**. Neurons are constantly getting and loosing ions and this electric flow is translated into an electric potential that, in addition to all the surrounding neurons potentials, create this electrical signal which can be registered by our measure devices. Therefore, the `LFP` is a signal that represents the overall neural activity of the individual neurons that are around the area where the measurement electrode is placed. In the picture above we can see 8 aligned electrodes recording the `LFP` at different spots of the brain.
 
-La región del cerebro donde suceden los `ripples` se llama **hipocampo**, una zona muy primitiva que se encarga principalmente de la memoria y el procesamiento espacial (es decir, crear un mapa del mundo, la orientación, etc...). En el hipocampo las neuronas están colocadas de tal manera, que los potenciales eléctricos individuales se suman de tal manera que no se cancelan entre sí, sino que se potencian, haciendo que sea muy fácil ver oscilaciones de potencial eléctrico de todo tipo en el `LFP`.
+`Ripples` take place in the brain area called **hippocampus**, a very primitive part in charge, mainly, of memory and spatial information processing (tasks such as creating a mental map of the world, orientation, etc). Hippocampal neurons are placed in such a way that individual electric potentials are not cancelled between them, but they add to each other, making it easier to see oscillations in the `LFP`.
 
-Pues bien, el objetivo de la hackatón es desarrollar un algoritmo utilizando herramientas de inteligencia artificial y *machine learning* para detectar `ripples` en registros de `LFP`. Para ello, os proporcionaremos una base de datos con la señal `LFP` y los tiempos de los `ripples`, etiquetados uno a uno manualmente por una experta. De esta manera podréis utilizar la metodología de aprendizaje supervisado, y entrenar un algoritmo para que los detecte. 
+Pues bien, el objetivo de la hackatón es desarrollar un algoritmo utilizando herramientas de inteligencia artificial y *machine learning* para detectar `ripples` en registros en una serie temporal como es el `LFP` (sampleado a 1250 Hz). Para ello, os proporcionaremos una base de datos con la señal `LFP` y los tiempos de los `ripples`, etiquetados uno a uno manualmente por nuestra experta. De esta manera podréis utilizar la metodología de aprendizaje supervisado, y entrenar un algoritmo para que los detecte.
 
-Cubriremos todos estos temas más en detalle más adelante.
+Well then, the goal of this hackathon is to develop an algorithm, using *artificial intelligence* and *machine learning* techniques, capable of detecting `ripples` in temporal series of neural data as the `LFP` (sampled at 1250 Hz). In order to accomplish this, we will provide you a database with `LFP` recordings and the times of `ripples` detected manually in those signals by our expert. This way you can use any supervised learning approach and train the algorithm to detect the events.
 
-### ...la hackatón
+All these topics will be covered in detail later.
 
-Una hackathon o hackaton, es un término proviene de las comunidades hacker para referirse a un encuentro de programadores cuyo objetivo es el desarrollo colaborativo de software, pero ahora se utiliza en toda serie de ámbitos. Estos eventos pueden durar entre dos días y una semana. Algunas hackatones tienen propósitos educativos o sociales, aunque en muchos casos el objetivo es crear un software utilizable. En nuestro caso, el propósito es doble :) 
+### ...the hackathon
 
-El término integra los conceptos de maratón y hacker, aludiendo a una experiencia colectiva que persigue la meta común de desarrollar aplicaciones de forma colaborativa en un lapso corto.
+Hackathon was originally a term coming from the hacker community and was used to refer to a programmers meeting that had the collaborative development of software as an objective, but nowadays it is used in many other fields. These events usually last between two days and a week. Some of them have educative or social purposes, but in most cases the goal is to create functional software. In our case, the purpose is both to apply AI tools to neuroscience and also to teach these techniques in a didactic way :) 
 
-La hackaton, desde el punto de vista organizativo, supone una dinámica horizontal e intensiva en donde los participantes complementan experiencias y habilidades individuales con el propósito de desarrollar soluciones concretas. De allí que para los especialistas en educación, la hackatón posea ciertas características propias de un dispositivo pedagógico en tanto promueve el trabajo colaborativo entre pares orientado a la resolución de problemas, hace foco sobre el proceso de trabajo como instancia de aprendizaje y favorece la motivación intrínseca de los participantes.
+This term brings together the concepts of marathon and hacker, as a reference to a collective experience with the common goal of developing applications in a collaborative way in a short amount of time.
 
-Las hackatones son, además, un estilo cada vez más frecuente de contratación en el mundo empresarial. 
+A hackathon, from the organizative point of view, implies an horizontal and intensive dynamic where all participants complement each others individual experiences and abilities with the goal of reaching a solution. For this reason, if we look at it from the educational side, this kind of event posseses certain properties of a pedagogical device, since it promotes collaborative work among peers aimed to problem solving, it focuses on the working process as an instance of learning and facilitates intrinsic motivation in the participants. 
 
-### ...los cursillos
+Hackathon are, moreover, an increasingly common hiring method in business.
 
-Se impartirán tres charlas-cursillo:
+### ...the lectures
 
-- **Inteligencia Artificial** Se hablará de qué es la Inteligencia Artificial, o *Machine Learning*. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándonos sobre todo en los algoritmos de aprendizaje supervisado, ya que son los que más se ajustan a nuestro problema. Será impartido por [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev)
+There will be three lectures about:
 
-- **Neurociencia** Para aquellas personas con perfiles más técnicos, revisaremos los mecanismos que tiene el cerebro para procesar información, empezando desde lo más simple, las neuronas, hasta los circuitos, y cómo estos son capaces de codificar el mundo. Estudiaremos qué son las oscilaciones cerebrales, y cómo las oscilaciones se relacionan con el comportamiento. Será impartido por [Enrique R Sebastian](https://twitter.com/EnrRodSeb)
+- **Artificial Intelligence:** it will explain what is Artificial Intelligence and *Machine Learning*. It will cover various strategies to approach different problems, according to their characteristics, with a special focus on supervised-learning algorithms, since are the ones that better fit our open problem. Conducted by [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev).
 
-- **Python** Para aquellas personas con una formación más alejada de la programación, y gente que provenga de otros lenguajes, daremos un cursillo de iniciación a python, poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas donde usemos herramientas de inteligencia artificial que puedan ser aplicables durante la hackatón. Será impartido por [Andrea Navas-Olive](https://twitter.com/acnavasolive)
+- **Neuroscience:** For the people coming from more technical backgrounds, we will review the mechanisms that our brain has to process information. Starting from its most simple elements, neurons, up to neural circuits and how these are able to codify the world. We will study what neural oscillations are and how they are related to behaviour. Conducted by [Enrique R Sebastian](https://twitter.com/EnrRodSeb).
 
-Tanto los cursillos como el material que subamos a esta web tiene como propósito ofrecerte una guía para que puedas estudiar más en profundidad los temas por tu cuenta.
+- **Python:** For those with little programming experience, or with experience in different languages, there will be an introductory course to Python, covering from the most simple and usual syntax to small programs using artificial intelligence tools, like the ones that you may use during the hackathon. Conducted by [Andrea Navas-Olive](https://twitter.com/acnavasolive).
 
-### ...qué ganaré con esta experiencia
+The purpose of all lectures and materials uploaded to this web is to provide you some sort of guide so you can take a deeper look into these topics on your own.
 
-- Aprenderás temas cada vez más demandados tanto en el mundo de la investigación y la ciencia, como en el mundo empresarial...
+### ...what will I gain from this experience
 
-- ... y lo harás en un formato que fomenta la ejecución práctica, la colaboración y la diversión
+- You will learn about very demanded topics, both in research and science but also in the business world.
 
-- Trabajarás en un equipo multidisciplinar con el objetivo de resolver un problema en un espacio breve de tiempo
+- ... and you will do so in a way that promotes hands-on practice, collaboration and having fun.
 
-- Y muy posiblemente, un premio, que el dinero nunca viene mal ;) 
+- You will work with a multidisciplanary team in order to solved a problem in a short period of time.
 
-## Organización
+- And, possibly, an economic award, since money never hurts ;)
 
-Este evento está organizado por:
+## Organization
 
-- [Andrea Navas-Olive](https://twitter.com/acnavasolive): Estudiante de Doctorado en Neurociencia Computacional en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/), y profesora en el Grado en Ingeniería Informática de la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+This event is organized by:
 
-- [Rodrigo Amaducci](https://twitter.com/AmaducciRodrigo): Estudiante de Doctorado en Neurociencia Computacional y profesor del Grado en Ingeniería Informática de la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+- [Andrea Navas-Olive](https://twitter.com/acnavasolive): Computational Neuroscience PhD student at [Instituto Cajal - CSIC](http://www.cajal.csic.es/), and teacher of the Bachelor in Computer Science Engineering at [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio).
 
-- [Enrique R Sebastian](https://twitter.com/EnrRodSeb): Estudiante de Doctorado en Neurociencia Computacional en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/)
+- [Rodrigo Amaducci](https://twitter.com/AmaducciRodrigo): Computational Neuroscience PhD student and teacher of the Bachelor in Computer Science Engineering at [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio).
 
--  [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev): Doctor en Bioquímica, Biología Molecular y Biomedicina por la [Universidad Complutense de Madrid](https://www.ucm.es/), y actualmente Data Scientist en BBVA Advanced Analytics en Indizen
+- [Enrique R Sebastian](https://twitter.com/EnrRodSeb): Computational Neuroscience PhD student at [Instituto Cajal - CSIC](http://www.cajal.csic.es/).
 
-- [Adrián Gollerizo](https://twitter.com/agollerizo): Profesor de Física en [IDEO Escuela](https://www.escuelaideo.edu.es/) y estudiante de Doctorado en Educación en la [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio)
+-  [Daniel García-Rincón](https://es.linkedin.com/in/darcia-dev): PhD in Biochemistry, Molecular Biology and Biomedicine by [Universidad Complutense de Madrid](https://www.ucm.es/), and currently Data Scientist at BBVA Advanced Analytics at Indizen.
 
-- [Liset M de la Prida](https://twitter.com/acnavasolive): Investigadora Principal del laboratorio [Hippocircuit Lab](http://hippo-circuitlab.es/) en el [Instituto Cajal - CSIC](http://www.cajal.csic.es/)
+- [Adrián Gollerizo](https://twitter.com/agollerizo): Physics and technology teacher at [IDEO Escuela](https://www.escuelaideo.edu.es/) and Education PhD student at [Universidad Autónoma de Madrid (UAM)](https://www.uam.es/uam/inicio).
 
-The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC)
+- [Liset M de la Prida](https://twitter.com/lmprida): Principal investigator at [Hippocircuit Lab](http://hippo-circuitlab.es/) from [Instituto Cajal - CSIC](http://www.cajal.csic.es/).
+
+The BrainCode Games is funded by Sociedad Española de Neurociencia (SENC).
 
 <img src="/assets/images/senc_logo_hor.png" alt="Image of SENC" width="600"/>
 
