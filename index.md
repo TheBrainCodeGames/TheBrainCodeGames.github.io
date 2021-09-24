@@ -94,10 +94,11 @@ Este evento está organizado por:
 
 - <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Investigadora Principal del laboratorio <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
 
-The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC).
+The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC) y la Universidad Autónoma de Madrid (UAM).
 
 <img src="/assets/images/senc_logo_hor.png" alt="Image of SENC" width="600"/>
 
+<img src="/assets/images/logo_uam.png" alt="Image of UAM" width="600"/>
 
 
 
