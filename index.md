@@ -9,7 +9,7 @@ layout: default
 
 The BrainCode Games es una **hackatón**, una competición colaborativa cuyo fin último es el desarrollo de una solución a  un problema abierto durante un periodo corto de tiempo (¡pero muy intenso!). El objetivo de The BrainCode Games es utilizar herramientas de **Inteligencia Artificial** para resolver un problema de **Neurociencia**. No te preocupes si sientes que no tienes conocimientos suficientes. Precisamente, el objetivo final de esta hackatón es enseñar de una manera **didáctica, práctica y divertida** una serie de temas cada vez más demandados (inteligencia artificial, neurociencia y programación), por lo que organizaremos una serie de **cursillos** previos al evento para prepararte. Recibirás asimismo un **certificado** de asistencia por el número de horas total de participación y formación. Y por supuesto, habrá un **premio económico** para los equipos que consigan los mejores resultados.
 
-### Inscripción
+### Inscripción (Cerrada)
 
 Si estás interesado/a, inscríbete en este **<a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">formulario</a>**, y síguenos en <a href="https://twitter.com/BraincodeGames" target="_blank">Twitter</a> e <a href="https://www.instagram.com/braincodegames/" target="_blank">Instagram</a>, donde iremos publicando información referente al evento, y divulgación sobre los temas que trataremos. ¡Ah! Y no te preocupes si no tienes un equipo, te podremos emparejar con la persona que más complemente tu formación :P
 
