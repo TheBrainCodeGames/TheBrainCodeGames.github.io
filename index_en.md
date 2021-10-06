@@ -29,11 +29,12 @@ This event is organized by:
 
 - **Neuroscience:** For people with more technical backgrounds, we will review the mechanisms that our brain has to process information. Starting from the simplest elements, the neurons, up to neural circuits, and how they build a neural representation of the world. We will study what are neural oscillations and how they are related to behaviour. Conducted by <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
 
-	- Video: https://www.youtube.com/watch?v=xoCtQzNFCQo
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xoCtQzNFCQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - **Python:** For those with little programming experience, or with experience other programming languages, there will be an introductory course to Python, covering from the most simple and usual syntax to small programs using artificial intelligence tools that will be useful in the hacktahon. Conducted by <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
 
-	- Video: https://www.youtube.com/watch?v=YGiewAhZ7pA
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/YGiewAhZ7pA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 	- Material and exercises:
 	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/01_Introduction.ipynb" target="_blank">Tutorial: Introduction</a>
 	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/02_ControlFlowTools.ipynb" target="_blank">Tutorial: Control Flow Tools</a>
@@ -43,7 +44,8 @@ This event is organized by:
 
 - **Artificial Intelligence:** we will explain what is Artificial Intelligence and *Machine Learning*. We will cover various strategies to target different problems, with a special focus on supervised-learning algorithms, since they better fit our open problem. Conducted by <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
 
-	- Video: https://www.youtube.com/watch?v=H676cMTDP4Q
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/H676cMTDP4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	
 	- Material and exercises:
 	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Linear_Regression_Practice.ipynb" target="_blank">Lineae Regression</a>
 	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Logistic_Regression_Classification.ipynb" target="_blank">Logistic Regression</a>

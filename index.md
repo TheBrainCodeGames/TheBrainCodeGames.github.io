@@ -30,11 +30,12 @@ Este evento está organizado por:
 
 - **Neurociencia:** Se revisarán los mecanismos que tiene el cerebro para procesar información, haciendo un recorrido desde el funcionamiento de las neuronas, hasta la circuitería hipocampal y la generación de ritmos. Impartido por <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
 
-	- Video: https://www.youtube.com/watch?v=xoCtQzNFCQo
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xoCtQzNFCQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - **Python:** Se hará un repaso de los conceptos más básicos de python, avanzando por los elementos imprescindibles del lenguaje (listas, funciones, módulos, etc...), poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas. Impartido por <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
 
-	- Video: https://www.youtube.com/watch?v=YGiewAhZ7pA
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/YGiewAhZ7pA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 	- Material y ejercicios:
 	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/01_Introduction.ipynb" target="_blank">Tutorial: Introduction</a>
 	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/02_ControlFlowTools.ipynb" target="_blank">Tutorial: Control Flow Tools</a>
@@ -44,7 +45,8 @@ Este evento está organizado por:
 
 - **Inteligencia Artificial:** Se hablará de qué es la Inteligencia Artificial, o Machine Learning. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándose sobre todo en los algoritmos que más se ajusten a las características de nuestro problema. Impartido por <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
 
-	- Video: https://www.youtube.com/watch?v=H676cMTDP4Q
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/H676cMTDP4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	
 	- Material y ejercicios:
 	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Linear_Regression_Practice.ipynb" target="_blank">Regresión Lineal</a>
 	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Logistic_Regression_Classification.ipynb" target="_blank">Regresión Logística</a>
