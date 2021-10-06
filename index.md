@@ -9,13 +9,55 @@ layout: default
 
 The BrainCode Games es una **hackatón**, una competición colaborativa cuyo fin último es el desarrollo de una solución a  un problema abierto durante un periodo corto de tiempo (¡pero muy intenso!). El objetivo de The BrainCode Games es utilizar herramientas de **Inteligencia Artificial** para resolver un problema de **Neurociencia**. No te preocupes si sientes que no tienes conocimientos suficientes. Precisamente, el objetivo final de esta hackatón es enseñar de una manera **didáctica, práctica y divertida** una serie de temas cada vez más demandados (inteligencia artificial, neurociencia y programación), por lo que organizaremos una serie de **cursillos** previos al evento para prepararte. Recibirás asimismo un **certificado** de asistencia por el número de horas total de participación y formación. Y por supuesto, habrá un **premio económico** para los equipos que consigan los mejores resultados.
 
-### Inscripción (Cerrada)
+## Organización
 
-Si estás interesado/a, inscríbete en este **<a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">formulario</a>**, y síguenos en <a href="https://twitter.com/BraincodeGames" target="_blank">Twitter</a> e <a href="https://www.instagram.com/braincodegames/" target="_blank">Instagram</a>, donde iremos publicando información referente al evento, y divulgación sobre los temas que trataremos. ¡Ah! Y no te preocupes si no tienes un equipo, te podremos emparejar con la persona que más complemente tu formación :P
+Este evento está organizado por:
 
-### Información relevante
-- Formulario de inscripción: <a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">en este enlace</a>.
-- Fecha de la hackatón: fin de semana del 22 al 25 de octubre de 2021.
+- <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>, y profesora en el Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
+
+- <a href="https://twitter.com/AmaducciRodrigo" target="_blank">Rodrigo Amaducci</a>: Estudiante de Doctorado en Neurociencia Computacional y profesor del Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
+
+- <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
+
+- <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>: Doctor en Bioquímica, Biología Molecular y Biomedicina por la <a href="https://www.ucm.es/" target="_blank">Universidad Complutense de Madrid</a>, y actualmente Data Scientist en BBVA Advanced Analytics en Indizen.
+
+- <a href="https://twitter.com/agollerizo" target="_blank">Adrián Gollerizo</a>: Profesor de Física en <a href="https://www.escuelaideo.edu.es/" target="_blank">IDEO Escuela</a> y estudiante de Doctorado en Educación en la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
+
+- <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Investigadora Principal del laboratorio <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
+
+
+## Seminarios y material
+
+- **Neurociencia:** Se revisarán los mecanismos que tiene el cerebro para procesar información, haciendo un recorrido desde el funcionamiento de las neuronas, hasta la circuitería hipocampal y la generación de ritmos. Impartido por <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
+
+	- Video: https://www.youtube.com/watch?v=xoCtQzNFCQo
+
+- **Python:** Se hará un repaso de los conceptos más básicos de python, avanzando por los elementos imprescindibles del lenguaje (listas, funciones, módulos, etc...), poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas. Impartido por <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
+
+	- Video: https://www.youtube.com/watch?v=YGiewAhZ7pA
+	- Material y ejercicios:
+	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/01_Introduction.ipynb" target="_blank">Tutorial: Introduction</a>
+	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/02_ControlFlowTools.ipynb" target="_blank">Tutorial: Control Flow Tools</a>
+	  3. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/03_DataStructures.ipynb" target="_blank">Tutorial: Data Structures</a>
+	  4. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/04_Modules.ipynb" target="_blank">Tutorial: Modules</a> 
+
+
+- **Inteligencia Artificial:** Se hablará de qué es la Inteligencia Artificial, o Machine Learning. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándose sobre todo en los algoritmos que más se ajusten a las características de nuestro problema. Impartido por <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
+
+	- Video: https://www.youtube.com/watch?v=H676cMTDP4Q
+	- Material y ejercicios:
+	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Linear_Regression_Practice.ipynb" target="_blank">Regresión Lineal</a>
+	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Logistic_Regression_Classification.ipynb" target="_blank">Regresión Logística</a>
+	  3. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/KNN_Classification.ipynb" target="_blank">KNN</a>
+	  4. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Support_Vector_Machine_Classification.ipynb" target="_blank">SVM</a>
+	  5. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/K_Means_Clustering_Practice.ipynb" target="_blank">k-Means</a>
+	  6. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/fraud_detection.ipynb" target="_blank">Fraud Detection</a> (para ejecutar este notebook se necesita este <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud" target="_blank">dataset</a>) 
+
+
+
+
+## Información relevante
+- Fecha de la hackatón: fin de semana del 22 al 24 de octubre de 2021.
 - Se impartirán unos cursillos de formación para la participación. Se grabarán y subirán a la web para que puedas verlos siempre que quieras.
 - Tanto la hackatón como las cursillos serán online.
 - Se dispondrán de medios online para poder hablar y conocernos durante la hackatón.
@@ -56,17 +98,6 @@ La hackatón, desde el punto de vista organizativo, supone una dinámica horizon
 
 Las hackatones son, además, un estilo cada vez más frecuente de contratación en el mundo empresarial. 
 
-### ...los cursillos
-
-Se impartirán tres charlas-cursillo:
-
-- **Inteligencia Artificial:** Se hablará de qué es la Inteligencia Artificial, o *Machine Learning*. Se explicarán diversas formas de atacar diferentes problemas, en función de sus características, centrándonos sobre todo en los algoritmos de aprendizaje supervisado, ya que son los que más se ajustan a nuestro problema. Será impartido por <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
-
-- **Neurociencia:** Para aquellas personas con perfiles más técnicos, revisaremos los mecanismos que tiene el cerebro para procesar información, empezando desde lo más simple, las neuronas, hasta los circuitos, y cómo estos son capaces de codificar el mundo. Estudiaremos qué son las oscilaciones cerebrales, y cómo las oscilaciones se relacionan con el comportamiento. Será impartido por <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
-
-- **Python:** Para aquellas personas con una formación más alejada de la programación, y gente que provenga de otros lenguajes, daremos un cursillo de iniciación a python, poniendo ejemplos desde las sintaxis más habituales hasta pequeños programas donde usemos herramientas de inteligencia artificial que puedan ser aplicables durante la hackatón. Será impartido por <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
-
-Tanto los cursillos como el material que subamos a esta web tiene como propósito ofrecerte una guía para que puedas estudiar más en profundidad los temas por tu cuenta.
 
 ### ...qué ganaré con esta experiencia
 
@@ -78,21 +109,7 @@ Tanto los cursillos como el material que subamos a esta web tiene como propósit
 
 - Y muy posiblemente, un premio, que el dinero nunca viene mal ;) 
 
-## Organización
 
-Este evento está organizado por:
-
-- <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>, y profesora en el Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/AmaducciRodrigo" target="_blank">Rodrigo Amaducci</a>: Estudiante de Doctorado en Neurociencia Computacional y profesor del Grado en Ingeniería Informática de la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>: Estudiante de Doctorado en Neurociencia Computacional en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
-
-- <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>: Doctor en Bioquímica, Biología Molecular y Biomedicina por la <a href="https://www.ucm.es/" target="_blank">Universidad Complutense de Madrid</a>, y actualmente Data Scientist en BBVA Advanced Analytics en Indizen.
-
-- <a href="https://twitter.com/agollerizo" target="_blank">Adrián Gollerizo</a>: Profesor de Física en <a href="https://www.escuelaideo.edu.es/" target="_blank">IDEO Escuela</a> y estudiante de Doctorado en Educación en la <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Investigadora Principal del laboratorio <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> en el <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
 
 The BrainCode Games está financiado por la Sociedad Española de Neurociencia (SENC) y la Universidad Autónoma de Madrid (UAM).
 

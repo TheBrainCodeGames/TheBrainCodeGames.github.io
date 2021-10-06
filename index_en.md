@@ -9,14 +9,52 @@ layout: default
 
 The BrainCode Games is a hackathon, a kind of collaborative competition, which ultimate goal is to develop a solution to an open problem in a short period of time (but very much intense!). The idea of The BrainCode Games is to use **Artificial Intelligence** to solve a **Neuroscience** problem. Don’t worry if you feel lacking the required knowledge or skills. The final objective of this hackathon is that you learn, in a **didactic, practical and fun** way, about some hot topics of the field (artificial intelligence, neuroscience and programming). For this reason, we will organize a series of **lectures** before the event that you can follow remotely. You will receive an attendance **certificate** for training and participation hours. And there will be **awards** for the team with best results.
 
-### Sign up (Closed)
+## Organization
 
-If you are interested, sign up using the following **<a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">form</a>**, and follow us in <a href="https://twitter.com/BraincodeGames" target="_blank">Twitter</a> and <a href="https://www.instagram.com/braincodegames/" target="_blank">Instagram</a>. We will post important information related to the event and the topics that will be covered. Ah! Don’t worry if you don’t have a team, we will match you with the person that better complements your skills :P
+This event is organized by:
 
-### Important information
+- <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>: Computational Neuroscience PhD student at <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>, and teacher in the Bachelor degree in Computer Science Engineering at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
 
-- Sign up form: <a href="https://forms.gle/uK6U2gVmhc9wa3SV9" target="_blank">follow this link</a>.
-- Hackathon dates: the weekend from 22th to 25th of October of 2021.
+- <a href="https://twitter.com/AmaducciRodrigo" target="_blank">Rodrigo Amaducci</a>: Computational Neuroscience PhD student and teacher in the Bachelor degree in Computer Science Engineering at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
+
+- <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>: Computational Neuroscience PhD student at <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
+
+- <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>: PhD in Biochemistry, Molecular Biology and Biomedicine by <a href="https://www.ucm.es/" target="_blank">Universidad Complutense de Madrid</a>, and currently Data Scientist at BBVA Advanced Analytics at Indizen.
+
+- <a href="https://twitter.com/agollerizo" target="_blank">Adrián Gollerizo</a>: Physics and Technology teacher at <a href="https://www.escuelaideo.edu.es/" target="_blank">IDEO Escuela</a> and Education PhD student at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
+
+- <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Director of the <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> from <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
+
+## Lectures and material
+
+- **Neuroscience:** For people with more technical backgrounds, we will review the mechanisms that our brain has to process information. Starting from the simplest elements, the neurons, up to neural circuits, and how they build a neural representation of the world. We will study what are neural oscillations and how they are related to behaviour. Conducted by <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
+
+	- Video: https://www.youtube.com/watch?v=xoCtQzNFCQo
+
+- **Python:** For those with little programming experience, or with experience other programming languages, there will be an introductory course to Python, covering from the most simple and usual syntax to small programs using artificial intelligence tools that will be useful in the hacktahon. Conducted by <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
+
+	- Video: https://www.youtube.com/watch?v=YGiewAhZ7pA
+	- Material and exercises:
+	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/01_Introduction.ipynb" target="_blank">Tutorial: Introduction</a>
+	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/02_ControlFlowTools.ipynb" target="_blank">Tutorial: Control Flow Tools</a>
+	  3. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/03_DataStructures.ipynb" target="_blank">Tutorial: Data Structures</a>
+	  4. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/Python/04_Modules.ipynb" target="_blank">Tutorial: Modules</a> 
+
+
+- **Artificial Intelligence:** we will explain what is Artificial Intelligence and *Machine Learning*. We will cover various strategies to target different problems, with a special focus on supervised-learning algorithms, since they better fit our open problem. Conducted by <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
+
+	- Video: https://www.youtube.com/watch?v=H676cMTDP4Q
+	- Material and exercises:
+	  1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Linear_Regression_Practice.ipynb" target="_blank">Lineae Regression</a>
+	  2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Logistic_Regression_Classification.ipynb" target="_blank">Logistic Regression</a>
+	  3. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/KNN_Classification.ipynb" target="_blank">KNN</a>
+	  4. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Support_Vector_Machine_Classification.ipynb" target="_blank">SVM</a>
+	  5. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/K_Means_Clustering_Practice.ipynb" target="_blank">k-Means</a>
+	  6. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/fraud_detection.ipynb" target="_blank">Fraud Detection</a> (for this exercise you will need this <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud" target="_blank">dataset</a>) 
+
+
+## Important information
+- Hackathon dates: the weekend from 22th to 24th of October of 2021.
 - There will be training lectures before the event. These will be recorded and uploaded to the website so you can access them at any moment.
 - Both the hackathon and the lectures will be held online.
 - We will open online platforms to meet and discuss during the hackathon.
@@ -55,17 +93,6 @@ This term lumps together the concepts of marathon and hacker, as a reference to 
 
 Hackathons are, moreover, an increasingly common hiring method in business.
 
-### ...the lectures
-
-There will be three lectures which can be followed online and offline:
-
-- **Artificial Intelligence:** we will explain what is Artificial Intelligence and *Machine Learning*. We will cover various strategies to target different problems, with a special focus on supervised-learning algorithms, since they better fit our open problem. Conducted by <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>.
-
-- **Neuroscience:** For people with more technical backgrounds, we will review the mechanisms that our brain has to process information. Starting from the simplest elements, the neurons, up to neural circuits, and how they build a neural representation of the world. We will study what are neural oscillations and how they are related to behaviour. Conducted by <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>.
-
-- **Python:** For those with little programming experience, or with experience other programming languages, there will be an introductory course to Python, covering from the most simple and usual syntax to small programs using artificial intelligence tools that will be useful in the hacktahon. Conducted by <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>.
-
-The purpose of all lectures and materials uploaded to this web is to provide you some sort of guide so you can take a deeper look into these topics on your own.
 
 ### ...what will I gain from this experience
 
@@ -77,21 +104,7 @@ The purpose of all lectures and materials uploaded to this web is to provide you
 
 - And, possibly, you will earn an award. Money can’t hurt you ;)
 
-## Organization
 
-This event is organized by:
-
-- <a href="https://twitter.com/acnavasolive" target="_blank">Andrea Navas-Olive</a>: Computational Neuroscience PhD student at <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>, and teacher in the Bachelor degree in Computer Science Engineering at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/AmaducciRodrigo" target="_blank">Rodrigo Amaducci</a>: Computational Neuroscience PhD student and teacher in the Bachelor degree in Computer Science Engineering at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/EnrRodSeb" target="_blank">Enrique R Sebastian</a>: Computational Neuroscience PhD student at <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
-
-- <a href="https://es.linkedin.com/in/darcia-dev" target="_blank">Daniel García-Rincón</a>: PhD in Biochemistry, Molecular Biology and Biomedicine by <a href="https://www.ucm.es/" target="_blank">Universidad Complutense de Madrid</a>, and currently Data Scientist at BBVA Advanced Analytics at Indizen.
-
-- <a href="https://twitter.com/agollerizo" target="_blank">Adrián Gollerizo</a>: Physics and Technology teacher at <a href="https://www.escuelaideo.edu.es/" target="_blank">IDEO Escuela</a> and Education PhD student at <a href="https://www.uam.es/uam/inicio" target="_blank">Universidad Autónoma de Madrid (UAM)</a>.
-
-- <a href="https://twitter.com/lmprida" target="_blank">Liset M de la Prida</a>: Director of the <a href="http://hippo-circuitlab.es/" target="_blank">Hippocircuit Lab</a> from <a href="http://www.cajal.csic.es/" target="_blank">Instituto Cajal - CSIC</a>.
 
 The BrainCode Games is funded by Sociedad Española de Neurociencia (SENC)  and Universidad Autónoma de Madrid (UAM).
 
